@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2 align="center">backdoor831246</h2>
 
-<!--
-**backdoor831246/backdoor831246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Developer
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+C# • C • C++ • Python
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About
+
+Developer interested in low-level programming and software development.
+
+---
+
+### Tech
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,c,python,git,linux,github" />
+</p>
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=backdoor831246&show_icons=true&hide_border=true&theme=default)
+
+---
+
+### Links
+
+Telegram — https://t.me/+5EHmo7zE-KBlYzMy
