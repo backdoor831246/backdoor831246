@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://camo.githubusercontent.com/ec48789428472dfaeff4135c7cca7a06406a9b8c09fd6a72a0b7a201dbbc23cd/68747470733a2f2f677761726564642e6769746875622e696f2f6d674769662f627574746572666c792e676966" width="250" height="250">
 
-  <h1>👨‍💻 backdoor831246</h1>
+  <h1> backdoor831246</h1>
 
   <p>
     <strong>Systems developer focused on low-level programming and software development.</strong>
@@ -20,14 +20,14 @@
 
 ---
 
-### 🚀 Core Skills
+###  Core Skills
 
 #### ⚙️ Systems Programming
 - Development of low-level applications in **C / C++ / C#**
 - Memory management and performance optimization
 - Understanding of operating system internals
 
-#### 🛠️ Technologies
+####  Technologies
 - **Languages:** C#, C, C++, Python  
 - **Platforms:** Windows / .NET  
 
