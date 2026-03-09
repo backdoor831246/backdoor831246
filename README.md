@@ -23,15 +23,6 @@ C / C++ / C# / Python
 </p>
 
 ---
-
-### Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=backdoor831246&show_icons=true&hide_border=true)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backdoor831246&layout=compact&hide_border=true)
-
----
-
 ### Contact
 
 Telegram  
